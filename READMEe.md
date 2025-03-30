@@ -9,7 +9,7 @@ An interactive and beautifully designed **social profile card** that allows user
 - 📱 Fully **responsive** and mobile-friendly design
 
 ## 🎥 Demo
-🔗 [Live Demo](#) *(Add your live link here)*
+🔗 [Live Demo](#) (https://pramodrawat01.github.io/profile-share-card/)
 
 ## 📸 Preview
 ![Project Screenshot](#) *(Add a screenshot of your project here)*
