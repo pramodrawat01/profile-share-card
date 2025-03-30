@@ -6,7 +6,7 @@ const sharescr = document.querySelector('.share-screen')
 const closescr = document.querySelector('.close-screen')
 //const profileUrl = encodeURIComponent(document.getElementById('profile-link').textContent);
 
-const whatsapp = document.querySelector('.social-icons')
+const whatsapp = document.querySelector('.social-icon')
 sharebtn.addEventListener('click', ()=>{
     sharescr.classList.add('index')
 })
